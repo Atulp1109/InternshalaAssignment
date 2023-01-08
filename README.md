@@ -3,7 +3,7 @@
 This is an assignment Website. It is created using Reactjs and bootstrap 
 
  
-** website on desktop*
+** website on desktop**
  
 ![image](https://user-images.githubusercontent.com/86558585/211193919-3831a4be-ed7a-4e9d-94d2-5d706ff780df.png)
 
