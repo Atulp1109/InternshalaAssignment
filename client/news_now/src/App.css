@@ -1,0 +1,27 @@
+.NewsImg{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 2% 20% 0% 20%;
+   
+
+}
+
+.newsPara{
+    margin:18px;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: auto;
+}
+.Link{
+    text-decoration: none;
+    color: white;
+}
+
+@media screen and (max-width:850px) {
+
+    .NewsImg img{
+        width:100%;
+        
+    }
+}
